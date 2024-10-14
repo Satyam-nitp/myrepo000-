@@ -1,0 +1,13 @@
+2024-10-01 23:06:26,694 root INFO this is my info
+2024-10-01 23:06:26,695 root ERROR this is my error
+2024-10-01 23:06:26,696 root CRITICAL this is critical msg
+2024-10-01 23:15:02,158 root INFO we are finding the factorial of 5
+2024-10-01 23:15:02,158 root INFO 1
+2024-10-01 23:15:02,158 root INFO Don't initialize ans with 0 otherwise product will become zero
+2024-10-01 23:15:02,160 root INFO Range function will produce integers from 1 to (6-1) i.e. 5
+2024-10-01 23:15:02,170 root INFO we are multiplying each integer upto 5
+2024-10-01 23:15:02,170 root INFO we are multiplying each integer upto 5
+2024-10-01 23:15:02,170 root INFO we are multiplying each integer upto 5
+2024-10-01 23:15:02,170 root INFO we are multiplying each integer upto 5
+2024-10-01 23:15:02,170 root INFO we are multiplying each integer upto 5
+2024-10-01 23:15:02,173 root INFO 120 is the result which is the factorial of 5

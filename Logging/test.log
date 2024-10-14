@@ -1,0 +1,19 @@
+INFO:root:log this line of execution
+INFO:root:this is my print
+WARNING:root:Be careful
+ERROR:root:this is my error
+CRITICAL:root:this is critical msg
+INFO:root:this is imp info
+INFO:root:this is imp info
+INFO:root:this is my info
+ERROR:root:this is my error
+CRITICAL:root:this is critical msg
+INFO:root:this is my info
+ERROR:root:this is my error
+CRITICAL:root:this is critical msg
+INFO:root:this is my info
+ERROR:root:this is my error
+CRITICAL:root:this is critical msg
+INFO:root:this is my info
+ERROR:root:this is my error
+CRITICAL:root:this is critical msg
